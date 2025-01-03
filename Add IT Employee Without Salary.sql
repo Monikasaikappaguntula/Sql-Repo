@@ -1,0 +1,3 @@
+INSERT INTO Employees(EMP_id,EMP_name,DEPARTMENT,SALARY)
+VALUES(7,'Grace Hall','IT',NULL);
+SELECT * FROM Employees;
